@@ -1,0 +1,18 @@
+.header_main {
+}
+.header_main nav {
+  background: linear-gradient(
+    360deg,
+    rgba(250, 247, 247, 0.877),
+    rgba(75, 73, 73, 0.507)
+  ) !important;
+  direction: rtl;
+}
+.header_main a{
+    font-weight: bold;
+}
+.header_main a:hover,
+.header_main a:active,
+.header_main a.active {
+  color: purple;
+}
